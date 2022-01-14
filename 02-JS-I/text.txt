@@ -1,0 +1,5 @@
+Variables: son como cajitas o espacios para guardar algo
+Strings: son solo palabras
+Funciones: son intrucciones para hacer algo
+Declaraciones: son palabras que le dan a las funciones de hacer diferentes acciones dandoles opciones
+Valores booleanos: es simplemente decir verdadero o falso
